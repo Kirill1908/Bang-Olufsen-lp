@@ -1,4 +1,4 @@
-# Bang & Olufsen - Modern Interior Design Website
+# Bang & Olufsen — Modern Interior Design Website
 A sleek and modern landing page inspired by Bang & Olufsen, showcasing elegant interior design elements, smooth layout, and responsive design.
 
 ## Live Demo
@@ -13,18 +13,25 @@ Experience the live website: [Bang-Olufsen-lp](https://Kirill1908.github.io/Bang
 - JavaScript (vanilla)
 
 ## Getting Started
-1. Clone the repository:
+To set up the project locally, run the following commands:
+
+1. Clone the repository
+```bash
 git clone https://github.com/Kirill1908/Bang-Olufsen-lp.git
-# and then
 cd Bang-Olufsen-lp
-2. Install dependencies:
+```
+2. Install dependencies
+```bash
 npm install
 # or
 yarn install
-3. Run the project locally:
+```
+3. Run the project locally
+```bash
 npm start
 # or
 yarn start
+```
 
 ## Features
 - Smooth scrolling navigation
